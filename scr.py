@@ -1,0 +1,6 @@
+print("hello world")
+print("hi git!")
+print("i love you nafise")
+print("love you more than the last day")
+print("arian")
+print("amir")
